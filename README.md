@@ -1,6 +1,6 @@
 Dont forget to run `bundle install` before doing anything!
 
-1. Boot up rails server and load `localhost:3000` in your web browser
+1. Boot up `rails server` and load `localhost:3000` in your web browser
  - notice that the link to New Post does not work! (Routing error)
 2. Create a route to GET to the page posts/new
  - the link should now load the form to create your own post
