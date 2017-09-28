@@ -1,4 +1,6 @@
 class PostsController < ApplicationController
+  def new
+  end
 
   # This CREATE action is the 'C' in 'CRUD'
   def create
