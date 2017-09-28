@@ -6,7 +6,7 @@ Dont forget to run `bundle install` before doing anything!
 
 Boot up `rails server` and load `localhost:3000` in your web browser
 
-### Part 1 - Routes
+### Part 1 - Routes and Controller Actions
 
 Notice that the link to "New Post" does not work! (This is a routing error)
 
